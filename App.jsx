@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Tracker from "./components/Tracker";
+import Tracker from "./Tracker";
 import GlobalStyles from "./GlobalStyle";
 
 const Main = styled.div`
